@@ -1,0 +1,178 @@
+
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : ahmet
+Age            : 23
+Gender         : Male
+Height         : 168.0cm
+Weight         : 58.0kg
+Weight Goal    : 57.5kg
+Activity Level : 2
+
+Your BMI is 20.5 and your weight status is Normal
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 2125
+Daily calories you need to lose weight (0.50kg/week) is 1625
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Food Name 1  : Fluffy omelet with cheese and spinach
+  Amount       : 1 omelet
+  Calories     : 545.1
+
+
+  Total of Breakfast Calories : 545.10
+
+Lunch:
+
+  Food Name 1  : Coconut Milk Protein Shake
+  Amount       : 1 shake
+  Calories     : 360
+
+  Food Name 2  : Cheese slices
+  Amount       : 1 serving
+  Calories     : 115.1
+
+  Total of  Lunch Calories : 475.1
+
+Dinner:
+
+  Food Name 1  : Easy Grilled Chicken
+  Amount       : 2 serving
+  Calories     : 415.8
+
+  Food Name 2  : Carrots
+  Amount       : 2 cup
+  Calories     : 172.2
+
+  Total of Dinner Calories : 588.0
+=============================
+Total of Calories : 1609
+=============================
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : ahmet
+Age            : 23
+Gender         : Male
+Height         : 158.0cm
+Weight         : 68.0kg
+Weight Goal    : 67.5kg
+Activity Level : 2
+
+Your BMI is 27.2 and your weight status is Overweight
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 2244
+Daily calories you need to lose weight (0.50kg/week) is 1744
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Food Name 1  : Fluffy omelet with cheese and spinach
+  Amount       : 1 omelet
+  Calories     : 545.1
+
+
+  Total of Breakfast Calories : 545.10
+
+Lunch:
+
+  Food Name 1  : Coconut Milk Protein Shake
+  Amount       : 1 shake
+  Calories     : 360
+
+  Food Name 2  : Cheese slices
+  Amount       : 1 serving
+  Calories     : 115.1
+
+  Total of  Lunch Calories : 475.1
+
+Dinner:
+
+  Food Name 1  : Easy Grilled Chicken
+  Amount       : 2 serving
+  Calories     : 415.8
+
+  Food Name 2  : Carrots
+  Amount       : 2 cup
+  Calories     : 172.2
+
+  Total of Dinner Calories : 588.0
+=============================
+Total of Calories : 1609
+=============================
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : ahmet
+Age            : 23
+Gender         : Male
+Height         : 158.0cm
+Weight         : 58.0kg
+Weight Goal    : 57.5kg
+Activity Level : 2
+
+Your BMI is 23.2 and your weight status is Normal
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 2056
+Daily calories you need to lose weight (0.50kg/week) is 1556
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Food Name 1  : Onion and tomato Omelete
+  Amount       : 1 Omelet
+  Calories     : 300
+
+  Food Name 2  : Bacon
+  Amount       : 4 strips
+  Calories     : 200.2
+
+  Total of Breakfast Calories : 500.20
+
+Lunch:
+
+  Food Name 1  : Coconut Milk Protein Shake
+  Amount       : 1 shake
+  Calories     : 360
+
+  Food Name 2  : Cheese slices
+  Amount       : 1 serving
+  Calories     : 115.1
+
+  Total of  Lunch Calories : 475.1
+
+Dinner:
+
+  Food Name 1  : Easy Grilled Chicken
+  Amount       : 2 serving
+  Calories     : 415.8
+
+  Food Name 2  : Carrots
+  Amount       : 2 cup
+  Calories     : 172.2
+
+  Total of Dinner Calories : 588.0
+=============================
+Total of Calories : 1564
+=============================
